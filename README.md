@@ -1,6 +1,9 @@
 # Probes
 
-Probing ideas, sharpening axes.
+- [cla](./src/cla)
+- [lean](./src/lean)
+- [sde](./src/sde)
+- [rps](./src/rps)
 
 ## Usage
 
